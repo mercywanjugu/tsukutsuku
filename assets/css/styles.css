@@ -183,10 +183,14 @@ img{
 .nav__link, .nav__logo, .nav__toggle{
   color: var(--text-color);
   font-weight: var(--font-medium);
-}
+} 
+ .nav__logo{
+  font-size: 30px;
+ }
 
 .nav__logo:hover{
   color: var(--first-color);
+  
 }
 
 .nav__link{
@@ -384,6 +388,11 @@ img{
   margin-bottom: var(--mb-1);
 }
 
+.hiking{
+  font-size: 350%;
+  color:red;
+}
+
 .services__description{
   padding: 0 1.5rem;
 }
@@ -394,6 +403,14 @@ img{
   grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
   grid-gap: 50px;
   align-items: center;
+}
+
+#our_foods, #our_cocktails, #our_excursions h2{
+  margin-left: 22%;
+}
+
+.menu_foods{
+  margin-left: 20%;
 }
 
 .menu__content{
