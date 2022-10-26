@@ -405,13 +405,17 @@ img{
   align-items: center;
 }
 
-#our_foods, #our_cocktails, #our_excursions h2{
+#our_foods, #our_cocktails, #our_excursions > h2{
   margin-left: 22%;
 }
 
-.menu_foods{
-  margin-left: 20%;
+.excur{
+  margin-left: 22%;
 }
+
+/* .menu_foods{
+  margin-left: 20%;
+} */
 
 .menu__content{
   position: relative;
