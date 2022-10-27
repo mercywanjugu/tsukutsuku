@@ -265,7 +265,7 @@ img{
   margin-bottom: var(--mb-1);
 }
 .home__title{
-  font-size: 40px;
+  font-size: 50px;
   font-style: italic;
 }
 
@@ -273,6 +273,7 @@ img{
   font-size: var(--h1-font-size);
   color: var(--title-color);
   margin-bottom: var(--mb-4);
+  font-style: italic;
 }
 
 /* .home__img{
