@@ -264,6 +264,9 @@ img{
   color: var(--first-color);
   margin-bottom: var(--mb-1);
 }
+.home__title{
+  font-size: 50px;
+}
 
 .home__subtitle{
   font-size: var(--h1-font-size);
@@ -280,9 +283,10 @@ img{
 
 /* Slideshow container */
 .slideshow-container {
-  max-width: 1000px;
+  max-width: 500px;
   position: relative;
   margin: auto;
+  
 }
 
 /* Caption text */
