@@ -260,12 +260,13 @@ img{
 }
 
 .home__title{
-  font-size: var(--biggest-font-size);
+  /* font-size: var(--biggest-font-size); */
   color: var(--first-color);
   margin-bottom: var(--mb-1);
 }
 .home__title{
   font-size: 60px;
+  font-style: italic;
 }
 
 .home__subtitle{
@@ -283,7 +284,7 @@ img{
 
 /* Slideshow container */
 .slideshow-container {
-  max-width: 250px;
+  max-width: 50%;
   position: relative;
   margin: auto;
   
