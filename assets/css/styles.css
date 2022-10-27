@@ -283,7 +283,7 @@ img{
 
 /* Slideshow container */
 .slideshow-container {
-  max-width: 50%;
+  max-width: 250px;
   position: relative;
   margin: auto;
   
