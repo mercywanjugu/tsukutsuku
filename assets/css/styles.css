@@ -230,7 +230,7 @@ img{
   justify-content: center;
   align-items: center;
   padding: .3rem;
-  background: #e00505f0;
+  background: hwb(0 2% 3% / 0.941);
   border-radius: .4rem;
   z-index: var(--z-tooltip);
   transition: .4s;
